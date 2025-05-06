@@ -1,0 +1,11 @@
+.api/bin/*
+*.pyc
+__pycache__/
+api/share/
+api/include/
+api/lib64/
+api/bin/
+api/lib/
+api/include/
+api/lib64/
+.env
